@@ -1,0 +1,30 @@
+body {
+  background-color: #403060;
+  background-image: radial-gradient( circle, rgba(  0, 0, 0, 0 ) 0%, rgba( 0, 0, 0, 0.8 ) 100% );
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    direction: rtl;
+    font: 100% Verdana, Arial, Helvetica, sans-serif;
+    width: 50%;
+    color: #97FFE4;
+}
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font: 100% Verdana, Arial, Helvetica, sans-serif;
+  width: 50%;
+  color: #FF29A4;
+}
